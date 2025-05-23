@@ -2,7 +2,8 @@
   
 
 ### Glad to see you here!  
-Currently, I'm a Software Engineering student. :]
+Currently, I'm a <b>Software Engineering</b> student. :]
+<br/> 
 I also hold a Bachelor's Degree in Visual Arts from the Federal University of Uberlândia and have a certificate in Computer Graphics. I especially enjoy working with front-end, and I'm studying to improve more and more!  
 
 <br/> 
