@@ -1,12 +1,15 @@
 <h2 align="left">Hello 👋, I'm Nara!</h2>
 
 ###
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnljeWx4cGk1eGMxeGtocTR1M2VjemM2aHAwNGxpc2QzMDF1YWFkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31okQMieMOiOw3m2XU/giphy.gif" align="right" height="170" />
 <p align="left">
   <h3> Glad to see you here! </h3>
-  Currently, I'm a <b>Software Engineering student</b>. :]<br>I also hold a Bachelor's Degree in Visual Arts from the Federal University of Uberlândia and have a certificate in Computer Graphics. I especially enjoy working with front-end, and I'm studying to improve more and more! </p>
+  Currently, I'm a <b>Software Engineering student</b>. :]<br>I also hold a Bachelor's Degree in Visual Arts from the Federal University of Uberlândia and have a certificate in Computer Graphics. I especially enjoy working with front-end, and I'm studying to improve more and more!
+</p>
+<br>
+<br>
+<br>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -49,12 +52,10 @@
 
 ###
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnljeWx4cGk1eGMxeGtocTR1M2VjemM2aHAwNGxpc2QzMDF1YWFkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31okQMieMOiOw3m2XU/giphy.gif" align="right" height="70" />
-
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaraCaroline&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaraCaroline&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=false" height="150" alt="languages graph"  />
 </div>
