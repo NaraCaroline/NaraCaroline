@@ -3,7 +3,7 @@
 ###
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnljeWx4cGk1eGMxeGtocTR1M2VjemM2aHAwNGxpc2QzMDF1YWFkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31okQMieMOiOw3m2XU/giphy.gif" align="right" height="170" />
 <p align="left">
-  <h3> Glad to see you here! </h3>
+  <h3> Front-end enjoyer | Aspiring game dev | Artist 😼 </h3>
   Currently, I'm a <b>Software Engineering student</b> at UNINTER. :]<br>I also hold a Bachelor's Degree in Visual Arts from the Federal University of Uberlândia and have a certificate in Computer Graphics. I especially enjoy working with front-end, and I'm studying to improve more and more!
 </p>
 <br>
